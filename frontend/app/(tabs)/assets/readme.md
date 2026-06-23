@@ -1,2 +1,3 @@
 ## Screenshots
-![Map View](frontend/app/(tabs)/assets/mapview.png)
+![Map View](assets/mapview.png)
+This is the MVP of Mapview
