@@ -1,2 +1,2 @@
 ## Screenshots
-![Map View](assests/mapview.png)
+![Map View](frontend/app/(tabs)/assets/mapview.png)
