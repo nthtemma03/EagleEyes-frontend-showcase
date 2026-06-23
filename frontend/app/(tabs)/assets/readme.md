@@ -1,3 +1,3 @@
 ## Screenshots
-![Map View](assets/mapview.png)
-This is the MVP of Mapview
+![Map View](mapview.png)
+This is the MVP of MapView.
